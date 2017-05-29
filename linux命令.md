@@ -36,7 +36,8 @@
 ### 5. Redis集群版启动命令：
    /usr/local/redis/redis-cluster/start-all.sh
   
-
+### 6. git push
+   /使用git push 可以将本地的代码直接提交到远程的仓库,信不信
 
 
 
